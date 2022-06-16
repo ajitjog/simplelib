@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ed7c114-3954-499f-b841-d1df2f1ca05f": {
+      "ProjectGuid": "4ed7c114-3954-499f-b841-d1df2f1ca05f",
+      "DisplayName": "ProductionServiceCode",
+      "ColorIndex": 0
+    },
+    "e6a450a4-a3aa-4c99-bdf9-b379acef32f5": {
+      "ProjectGuid": "e6a450a4-a3aa-4c99-bdf9-b379acef32f5",
+      "DisplayName": "ProductionServiceCodeTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

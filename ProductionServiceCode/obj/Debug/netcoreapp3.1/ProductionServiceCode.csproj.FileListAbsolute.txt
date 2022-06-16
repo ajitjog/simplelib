@@ -1,0 +1,10 @@
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\bin\Debug\netcoreapp3.1\ProductionServiceCode.deps.json
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\bin\Debug\netcoreapp3.1\ProductionServiceCode.dll
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\bin\Debug\netcoreapp3.1\ProductionServiceCode.pdb
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.csproj.AssemblyReference.cache
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.AssemblyInfoInputs.cache
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.AssemblyInfo.cs
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.csproj.CoreCompileInputs.cache
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.dll
+C:\devopssrc\ProductionServiceCode\ProductionServiceCode\obj\Debug\netcoreapp3.1\ProductionServiceCode.pdb
